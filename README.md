@@ -4,7 +4,7 @@
 - Libraries: Flask, Plotly.
 
 ### More about me
-Twitter: https://twitter.com/ankertimHo
+Twitter: https://twitter.com/ankertimHo  
 Linkedin: https://www.linkedin.com/in/ankertim/
 
 <!--
