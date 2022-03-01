@@ -4,8 +4,8 @@
 - Libraries: Flask, Plotly.
 
 ### More about me
-[![Twitter: ankertim](https://img.shields.io/static/v1?label=Twitter&message=ankertim&logo=twitter&style=flat)](https://twitter.com/ankertim)
-[![Linkedin: ankertim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/ankertim/)
+Twitter: https://twitter.com/ankertim
+Linkedin: https://www.linkedin.com/in/ankertim/
 
 <!--
 **ankertim/ankertim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
