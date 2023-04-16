@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- Languages: Python, Javascript, SQL, C/C++, and Java.
+- Languages: Java, Python, Javascript, and C/C++.
 - Libraries: Pandas, Matplotlib, Scikit-learn, Opencv, Plotly.js.
-- Backend Framework: Flask, Express.
+- Backend Framework: Spring Boot, Flask, Express.
 - Others: Node.js, Agile, Git, Vim.
 
 
